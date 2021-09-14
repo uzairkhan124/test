@@ -4,6 +4,5 @@ hello world
 #testing my first commit
 
 now testing in second branch with nexrt branch name
-
-
-switching branches to use pull request
+testing after conflict
+again testing 
